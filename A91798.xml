@@ -1,0 +1,528 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true catechisme concerning the word of God and the power of it,  which is quick and lively in the heart the manner of its working by dividing and setting before the creature good and evil ... :  also several questions answered by the experimental working of the spirit ... / written by one who is brought into the true Christian faith, and for the testimony of the same faith hath been cast into prison ... and scornfully called Quaker, whose name is Thomas Richardson.</title>
+            <author>Richardson, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91798</idno>
+            <idno type="STC">Wing R1415</idno>
+            <idno type="STC">ESTC R42602</idno>
+            <idno type="EEBO-CITATION">36282433</idno>
+            <idno type="OCLC">ocm 36282433</idno>
+            <idno type="VID">150233</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91798)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150233)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2237:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true catechisme concerning the word of God and the power of it,  which is quick and lively in the heart the manner of its working by dividing and setting before the creature good and evil ... :  also several questions answered by the experimental working of the spirit ... / written by one who is brought into the true Christian faith, and for the testimony of the same faith hath been cast into prison ... and scornfully called Quaker, whose name is Thomas Richardson.</title>
+                  <author>Richardson, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Year 1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (2nd ed.).</note>
+                  <note>"Wisbitch Goal [sic], the 24th of the 2d. Month, 1664."</note>
+                  <note>Imperfect: stained and tightly bound.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms --  Society of Friends.</term>
+               <term>Theology, Doctrinal --  Society of Friends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150233:1" rendition="simple:additions"/>
+            <pb facs="tcp:150233:1" rendition="simple:additions"/>
+            <p>A True CATECHISME Concerning the word of God, and the Power of it, which is quick and lively in the heart: The manner of its work<g ref="char:EOLhyphen"/>ing, by dividing and ſetting before the Creature good and evil; And alſo commanding to <hi>Chuſe the good and ſhun the evil.</hi>
+            </p>
+            <p>Alſo ſeveral Queſtions an<g ref="char:EOLhyphen"/>ſwered by the experimental working of the Spirit; Uſeful for ſuch as truly deſire to be acquainted with the way to life eternal.</p>
+            <p>Written by one who is brought into the true Chriſtian faith; and for the Teſtimo<g ref="char:EOLhyphen"/>ny of the ſame Faith, hath been caſt into priſon, and continued alſo, through the en<g ref="char:EOLhyphen"/>vious Prieſts of <hi>Ely,</hi> above one whole year, and remaineth at preſent in <hi>Wisbitch</hi> Goal, and ſcornfully called <hi>Quaker,</hi> whoſe name is</p>
+            <p>
+               <hi>Thomas Richardſon.</hi>
+            </p>
+            <p>
+               <hi>Wisbitch</hi> Goal, <hi>the</hi> 24th <hi>of the</hi> 2d. <hi>Month,</hi> 1664.</p>
+            <p>Printed in the Year 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150233:2"/>
+            <pb n="1" facs="tcp:150233:2"/>
+            <epigraph>
+               <q>
+                  <bibl>Deutromouie <hi>30. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </bibl>
+                  <p>See <hi>I</hi> have ſet before thee good and evil, life and death: Verſe <hi>19. I</hi> have ſet before you life and death, bleſſing and Curſing, chooſe life, that both thou and thy ſoul may live.</p>
+               </q>
+            </epigraph>
+            <div type="question">
+               <head>Reaſon Queſtioneth.</head>
+               <p>
+                  <hi>I would be ſatisfied herein, hath the Creature power to Chooſe the good and Shun the evil, or to Chuſe the evil and Shun the good? yea or nay?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Light Anſwereth.</head>
+               <p>The Creature man hath in his own will or in his own ſtrength, he hath power to do evil; but the power to do good ſtandeth in the gift of God; and not in the will or wit of man.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>But the word, Chuſe life, implyeth as if the man had power to Chuſe.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>The Creature in the fall hath choſen death, or the ſin that bringeth death; but now the gift of God is given to diſcover the ſin and the death, and the way of reſtorati<g ref="char:EOLhyphen"/>on, and requires the heart and minde from the ſin; and fo from the death; ſhewing the danger of the proceeding in the ſin and evil; And that the Lord hath no delight in the ſinner, and therefore it is Gods gift in man, that is the power to deſtroy the devil and the ſin.</p>
+            </div>
+            <div type="question">
+               <pb n="2" facs="tcp:150233:3"/>
+               <head>Queſtion.</head>
+               <p>
+                  <hi>If God do the work alone, what muſt the Crea<g ref="char:EOLhyphen"/>ture do, or why doth he ſay Chuſe life?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>Man in eating the forbidden fruit hath choſen the ſin, and ſo death entred; And in this eſtate there is a free will, or a wil<g ref="char:EOLhyphen"/>ling mind in all men naturally to ſin: But the gift of God which is free from God is of another nature, it is revealed in the heart and revealeth the ſin, and alſo the mind of God in the heart of man, to draw the heart from the ſin, and out of it up to God; and it is Gods gift in the heart that cryeth Chuſe life rather then death; and this gift of God doth afflict the ſoul, and heart, and Conſcience, if the ſin be lived in; and this is the word that is nigh thee in thine heart, that thou mayeſt hear it and do it, ver. 14. this word is lively, it is placed in the heart that thou mayſt hear it and do it.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>How may I know this word that is quick, that is nigh in the heart; and what is the thing requi<g ref="char:EOLhyphen"/>red of me to do:</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>The word is Gods gift; the Son of God is the gift of God; God ſo loved the world that he gave his Son whoſe name is cal<g ref="char:EOLhyphen"/>led the word of God; the life is in the Son,
+<pb n="3" facs="tcp:150233:3"/>and he that hath the Son hath life; who hath given a manifeſtation of his ſpirit to every man; the ſpirit is the word; the ſpirit is quick, this is the word that is in thine heart, that thou mayſt hear it and do it, and this is Gods gift.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>How may</hi> I <hi>know the voice of the word or Spirit; Seeing that I am commanded to hear it and do it?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>The Son is life in himſelf, and the Spirit is life, the life that is in the Spirit, it ſhew<g ref="char:EOLhyphen"/>eth what leadeth in the way to life, and the way to death alſo; and the word being in the heart is a ſpeaking voice that revealeth every ſin; and revealeth the righteous judg<g ref="char:EOLhyphen"/>ments upon the ſinner; for it convinceth the conſcience after the manifeſtation, and ma<g ref="char:EOLhyphen"/>keth the heart to underſtand what the Lord hath no delight in, and it calleth for a re<g ref="char:EOLhyphen"/>turn and to forſake thy evil ways, as evil Worſhips, and evil Actions, Words, Cu<g ref="char:EOLhyphen"/>ſtomes, and Traditions; and ſo the word in thy heart that thou art to hear, it abi<g ref="char:EOLhyphen"/>deth in thy heart and ſtandeth a witneſs a<g ref="char:EOLhyphen"/>gainſt all manner of ſin that the heart can delight in, and if thou hear it, and do it, then thou may feel what peace of conſci<g ref="char:EOLhyphen"/>ence it bringeth, and life to thy ſoul, but if
+<pb n="4" facs="tcp:150233:4"/>thou hear it, and do it not; but live ſtill in the diſobedience, then thou ſhalt go with a wounded conſcience and ſhall feel the voice behind thee ſaying, this is the way, &amp; it will affiict thee and condemn thee in thine own heart for grieving of Gods holyſpirit, ther<g ref="char:EOLhyphen"/>fore to live in ſin and know it, ſuch goeth with a wounded Couſcience, and ſuch muſt needs have a heavy burden.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>What is that which burtheneth, and whence comes it or what is the burden thou ſpeakeſt of.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>That which burdens is ſin which ariſeth from the luſt which cauſeth the war, and that which is burdned is the life of the ſoul, the delighting and living in ſin burdens the ſoul, and burdens the conſcience, And ſuch goeth bowed down in ſpirit, the life of the ſoul cryeth under the burden being preſſed as a Cart with ſheaves, and all that feeleth this burden goeth with a wounded Conſci<g ref="char:EOLhyphen"/>ence; and the further they go in any known ſin the greater the burden and tor<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>I could gladly chuſe life, but it ſeemes to be a ſtraightway.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>The way is ſtraight to that which muſt
+<pb n="5" facs="tcp:150233:4"/>never enter, but it is eaſie with ſuch as are willing and obedient; for life is obtained through love, for God is love, and hath ſhed his everlaſting love in our hearts, and by hearing and feeling the ſtrength of his love, the heart is overcome, this thinketh no evil but overcometh evil; all that come under the yoke of Chriſt and taketh up his yoke, ſuch dare not ſtand to look at the ſtraitneſs of the way, for the Lord maketh it eaſie, for his yoke and burden to ſuch as are of a rea<g ref="char:EOLhyphen"/>dy mind, is love and mercy; but the unbe<g ref="char:EOLhyphen"/>leivers ſtandeth looking at the ſtraitneſs of the way, what reproaches and what perſe<g ref="char:EOLhyphen"/>cutions, ſaying in heart, it may coſt goods and lands and life alſo, and having the heart fixed in the earthly, ſuch are not brought into the true faith, for the care and confi<g ref="char:EOLhyphen"/>dence is more in the earthly then in the heavenly, their minds and hearts are not redeemed from the earth, but the believers hath a yoke that yokes the heart, and mind, and ſoul to God, and yokes or binds the earthly part under, and ſuch knoweth their redeemer liveth, that hath redeemed from the vain Converſation, of the world: And ſuch feels the ſoul, redeemed from death, and how there is a paſſing, from death to life.</p>
+            </div>
+            <div type="question">
+               <pb n="6" facs="tcp:150233:5"/>
+               <head>Queſtion.</head>
+               <p>
+                  <hi>True it is many people in theſe days do not walk up to what they are perſwaded in their heart is truth, they being full of fears, but if ma<g ref="char:EOLhyphen"/>ny do ſo for fear of the Law, may not the Lord ardon ſuch, and ſhew mercy afterward.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>It is in God to pardon, and to ſhew mer<g ref="char:EOLhyphen"/>cy upon repentance and forſaking ſin, and tranſgreſſion, but it is a dangerous thing to tempt and provoke the Lord, by diſobeying his voice, &amp; ſlighting his viſitation, for it is with him to harden, &amp; to give the creature to unbeliefe, as he ſees Cauſe, ſo to day if you will hear his voice harden not your hearts, for they that neglect the day of their viſitation wherein God calls them to repentance which is the day of mercy and healing, his juſtice will find them out, and how can it ſtand with the juſtice of God to own ſuch as deny him: hath not the Lord called many this day that will not hear, may not the day come that ſuch may call and cry and he will not hear? are not ſuch as know the truth and not obey it, the fear<g ref="char:EOLhyphen"/>ful and unbelieving whom God will judge? how dare thou, who art afraid to confeſſe him before men count thy ſelf a beleever? or how dare thou build upon a hope in thy heart that he ſhould hear thee when thou
+<pb n="7" facs="tcp:150233:5"/>calleſt, and thou deny him now he calls? not this the hippocrites hope that muſt periſh.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>Thou ſpeakeſt of a call, that the Lord calls unto his people by, how may</hi> I <hi>know when God calleth me? or what is Gods call that I may know it.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>Gods call is by his word which is nigh in the heart that thou may hear it, and do it, it is ſo nigh thee, that thou canſt neither ſwear nor lie but the word is ſo nigh it will reprove thee and condemn thee.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>Is that Gods call, I have known that many times, but whether doth it call me.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>The word in the heart calleth from the ſin, it is nigh to diſcover every ſin, it is a living word, it is quick, in making the ſin known and calleth to abſtain, there are many are called but few are choſen.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>What is the reaſon that many ſhould be cal<g ref="char:EOLhyphen"/>led and few choſen.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>The want of love to Gods word; how ſhould God Chuſe ſuch as hates to be re<g ref="char:EOLhyphen"/>formed, for God hath placed his word in the
+<pb n="8" facs="tcp:150233:6"/>heart; to reform the heart, and many will talk of the word with their mouth, but hates to be reformed by it in their hearts, ſo as it is written, every one that doth evil ha<g ref="char:EOLhyphen"/>teth the light, but he that heareth the word, and doth it, ſuch maketh their calling and election ſure, ſuch yeildeth to the word that is ſo nigh to diſcover every oath and every lie though it might bring much gain the word is ſo nigh that calleth to forſake, and rebukes alſo with ſuch ſtrokes of Judgement in the Conſcience, the righte<g ref="char:EOLhyphen"/>ous ſmiteth, the Lord hath ſmitten; and in ſmiting the fear of the Lord is learned, the word is nigh in the heart that thou ſhould hear it, and do it: the hearers and doers are ſuch as yeilds, and is willing to be taught by it, but ſuch as heareth the word and doth it not, the word is as an hammer, and ſmiteth them in their conſcience that they go with a wounded Conſcience, and falleth under the wrath of God through diſobedience.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>Is there ability to be obtained as in matter of ſalvation, as by hearing and doing<g ref="char:punc">▪</g> or is it a matter of condemnation to hear it, and not to do it.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>Yea there is matter of ſalvation in hear<g ref="char:EOLhyphen"/>ing
+<pb n="9" facs="tcp:150233:6"/>and doing for it is written, he that hear eth my word and doth it, is compared to a wiſe man that built upon a rock; but ſuch as hear and do it not are compared to build upon the ſand.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>Hath man power to do the one and leave the other undone: or may it not be imputed that it is a matter of works, ſeeing that man may do it, or leave it undone, be<g ref="char:EOLhyphen"/>cauſe thou ſaiſt hear and do, or hear and not do.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>Yea there is power in man given him of God, and he that is of God, heareth Gods word, the word is quick, it is a ſpeaking word, &amp; is revealed in the heart &amp; ſpeaketh againſt all manner of ſin, that ariſeth in the heart; ſo he that hath an ear to hear what the Lord ſaith, ſuch dare not lend an ear to the ſin or to the wicked, ſo the word is a law to the lawleſs, the power ſtands in the word which is Gods ſtroke to the ſinful part; the love of this being felt in the heart, Conſtraineth unto obedience and ſo beget<g ref="char:EOLhyphen"/>teth a willingneſs in the mind, for the word being powerful over-pours the heart, which hath had its life in evil; and over<g ref="char:EOLhyphen"/>comes the heart by love, ſo that what by its love, and what by its judgements, the
+<pb n="10" facs="tcp:150233:7"/>honeſt heart is made ſubject; and this is none of mans works nor mans righteouſ<g ref="char:EOLhyphen"/>neſs, but the power of the word that the up<g ref="char:EOLhyphen"/>right in heart heareth and doth by yield<g ref="char:EOLhyphen"/>ing obedience in heart unto it: But he that heareth the word and doth it not, are ſuch as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive in Pride and Pleaſures, as Swearing, Lying, and even all manner of evil; and hath many ſecret reproofs in their Conſciences, but will none of its re<g ref="char:EOLhyphen"/>proofs, and hates to be reformed by it, for every one that doth evil hates the light, ſo that their is a willingneſs in man naturally (as being faln) to do evil; and being wholly inclined in heart thereunto, there is power enough to do evil, but hath no pow<g ref="char:EOLhyphen"/>er of himſelf to do good; but to leave all without excuſe, the Lord who hath no de<g ref="char:EOLhyphen"/>light in the death of a ſinner, hath cauſed his light to appear in the ſinful heart; who by the word maketh the ſin manifeſt, ſo that many can acknowledge they do live in groſs ſins, and that they are condemned in their own Conſciences many times, that the cuſtom or habit of ſin carrieth their hearts away to delight in iniquity; ſo that the love of the evil carrieth or draws the heart after it and into it, and that the crea<g ref="char:EOLhyphen"/>ture hath power naturally to chuſe the evil, the heart being wholly bent thereunto;
+<pb n="11" facs="tcp:150233:7"/>yet this man or theſe ſort of evil men are ready to confeſs upon examination that they many times do hear the word in their hearts that afflicts them and condemns them in their Conſciences for not doing of it; thus with many their is a Confeſſing but not a forſaking: And therefore it is that they do not find mercy.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>I aſtance ſome particulars, that</hi> I <hi>may under<g ref="char:EOLhyphen"/>stand more plainly.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>For inſtance, ſome men are given to Drunkenneſs, and have an habit in that ſin, doth the Spirit of God lead into that ſin (nay) then it muſt needs be an evil Spirit that leads into evil ways: Now the word of God is nigh ſuch a one, even in his heart at the very time when the mind is running after ſtrong drink or bad Company, and the word ſheweth the man the ſin and the danger, yet the luſtful mind ruſheth into the ſin as the horſe to the battel; and ma<g ref="char:EOLhyphen"/>ny times when man is overcome with ſtrong drink, then the word that forewar<g ref="char:EOLhyphen"/>ned of the evil when the creature is over<g ref="char:EOLhyphen"/>come with evil, then the word in the heart afflicts the heart, and ſoul, and conſcience: What torment is there in body, and ſoul, and ſpirit, who through the wilful mind in
+<pb n="12" facs="tcp:150233:8"/>vexing God. How doth the Lord vex ſuch even in the very time, and after ſuch evil actions are brought forth; yet the word that warned of the evil, &amp; from it re<g ref="char:EOLhyphen"/>mains in the heart, and condemns the crea<g ref="char:EOLhyphen"/>ture many times for the miſdeeds, ſo as it is written, Tribulation and Anguiſh upon every one that doth evil, and to be ſhort, there may be felt in the heart good and e<g ref="char:EOLhyphen"/>vil; the gift of God is the word of God, every good gift and every perfect gift comes from above, and God is the Author of it; and there is an evil principle in the heart, and that the Devil is the Author of, and both theſe will move upon the heart, the good moveth unto that which is good, and the evil moveth unto that which is e<g ref="char:EOLhyphen"/>vil, and as their is a yielding to either of theſe, his ſervant thou art whom thou doſt obey, whether of ſin unto death, or obedience to righteouſneſs, but that which moveth to good if it be not obeyed it re<g ref="char:EOLhyphen"/>maineth in the heart and changeth not its property, but ſtands a witneſſe in the heart againſt all wickedneſs and uncleanneſs, and ſuch as regard iniquity in their hearts the Lord will not hear their Prayer, but he will make ſuch to fear his wrath becauſe of diſobedience.</p>
+            </div>
+            <div type="question">
+               <pb n="13" facs="tcp:150233:8"/>
+               <head>Queſtion.</head>
+               <p>
+                  <hi>I perceive that man of himſelf hath not pow<g ref="char:EOLhyphen"/>er to chuſe the good and ſhun the evil; but no want of ſtrength to run into evil.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>Nay, mans heart being overcome by the Serpents ſubtilty; to redeem the heart a<g ref="char:EOLhyphen"/>gain to God Chriſt the Way is to be made known in the heart, who openeth the un<g ref="char:EOLhyphen"/>derſtanding, and enlighteneth the heart, and cauſeth man and woman to ſee into their own hearts; what the hearts delight is in, and whether they do to all men as they would be done by, in outward dealing or no; for he that is not faithful in the unrigh<g ref="char:EOLhyphen"/>teous Mammon, who will commit to him the truſt of the true riches.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>It is true, to deal juſtly, and to love mercy is required, and many men</hi> I <hi>hope who are in ſe<g ref="char:EOLhyphen"/>veral forms of worſhip, are indeavouring there<g ref="char:EOLhyphen"/>after, if that ſacrifice be acceptable with the Lord.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>The acceptable ſacrifice is from a Belie<g ref="char:EOLhyphen"/>ving heart; who believes that God is, and that he is a rewarder, which is beyond a ſelf righteouſneſs which doth to be ſeen of men, or to be ſo and ſo accounted; for the juſt Spirit of God in the heart believed in,
+<pb n="14" facs="tcp:150233:9"/>conſtrains the creature to deal juſtly in all his dealings, as in the ſight of God; for Gods fear ſtands in the heart, which awes the man or woman who believe in Chriſt, to deal juſtly; and the ſame ſpirit conſtrain<g ref="char:EOLhyphen"/>eth to love mercy, and alſo to walk humbly with God; and this humility that I write of goes before honour.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>How may</hi> I <hi>know a believer and an unbelie<g ref="char:EOLhyphen"/>liever aſſunder, ſeeing that the believers ſaeri<g ref="char:EOLhyphen"/>fice is accepted, and the unbelievers rejected?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>By their fruits, for a good tree cannot bring forth evil fruit; neither can an evil tree bring forth good fruit; for ſuch as the tree is ſuch is the fruit; a good man out of the treaſure of his heart brings forth good fruit; and an evil man out of the treaſure of his heart, brings forth evil fruit, even as <hi>Cain</hi> and <hi>Abel,</hi> for <hi>Abels</hi> ſacrifice was accep<g ref="char:EOLhyphen"/>ted, and <hi>Cains</hi> ſacrifice was rejected.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>What is the fruit that a good man brings forth out of his heart, that I may take notice of it?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>The fruits of the Spirit, is Love, joy, peace long-ſuffering, gentleneſs, patience, and the like, according to the Scripture.</p>
+            </div>
+            <div type="question">
+               <pb n="15" facs="tcp:150233:9"/>
+               <head>Queſtion.</head>
+               <p>
+                  <hi>What are the fruits that an evil man bring<g ref="char:EOLhyphen"/>eth forth out of his heart?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>Murders, adultery, fornication, unclean<g ref="char:EOLhyphen"/>neſs, idolatry, witchcraft, mallice, hatred, variance, ſtrife, and the like.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>Why doeſt thou tell me of Abel and Cain that were ſo many years ago; what doth their ſacri<g ref="char:EOLhyphen"/>fice reſemble unto me?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>
+                  <hi>Abel</hi> and <hi>Cain</hi> they reſemble two gene<g ref="char:EOLhyphen"/>rations, the wicked and the righteous: <hi>Cain</hi> in envy perſecuted the juſt; as it is written, He that envies is a murtherer, and no murtherer hath eternal life abiding in him: and ſuch as live in envy this day per<g ref="char:EOLhyphen"/>fecuting the juſt, are of <hi>Cains</hi> ſpirit, and of <hi>Cains</hi> generation, and their ſacrifice is re<g ref="char:EOLhyphen"/>jected by the Lord.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>Why, or to what purpoſe doth the wicked offer ſacrifice if it be rejected by the Lord?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>Nay to no purpoſe, the very prayers of the wicked are abomination with the Lord.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>But in caſe I be a ſinner, and in</hi> Cains <hi>na<g ref="char:EOLhyphen"/>ture,
+<pb n="16" facs="tcp:150233:10"/>finding in my heart much envy and wick<g ref="char:EOLhyphen"/>edneſs; wrath, and malice, and the like; is there no way to finde mercy and forgiveneſs, and re<g ref="char:EOLhyphen"/>demption from ſin?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>Yea by true repentance and godly ſor<g ref="char:EOLhyphen"/>row which worketh true deſires in the heart after the Lord, and a true hunger and thirſt after righteouſneſs, and alſo a hatred of evil, feeling Gods fear placed in the heart; for in the true fear ſtanding, that is the godly awe that keeps from ſin, the fear reſtraineth from evil; and whoſoever is reſtrained from evil, it is by an inviſible arme of God that rebukes the ſinner, by a ſecret reproof in the heart and conſcience; and this ſecret reproof being owned and loved, and the ſin forſaken, the ſame arme that reproves the ſin begets life in the ſoul: ſo that the ſame arme that brings deſtructi<g ref="char:EOLhyphen"/>on to the ſin in the heart, the ſame arme which is the Spirit of God, doth bring ſal<g ref="char:EOLhyphen"/>vation to the ſoul: for, for this purpoſe is the Son of God come to deſtroy the works of the Devil, and to work out mans ſalva<g ref="char:EOLhyphen"/>tion, by placing the fear of God in the heart; and ſo the fear of the Lord is to de<g ref="char:EOLhyphen"/>part from iniquity: and iniquity depart<g ref="char:EOLhyphen"/>ing from a love and belief is raiſed up in the heart by the Spirit of God: and this is the
+<pb n="17" facs="tcp:150233:10"/>Faith that God is the Authour of And ſuch as come hither findes the minde chan<g ref="char:EOLhyphen"/>ged and turned from darkneſs to light, from the ſin and vanity to be guided by the Spirit, and ſuch come to ſee that to be ſpi<g ref="char:EOLhyphen"/>ritually minded is life and peace, ſuch feel<g ref="char:EOLhyphen"/>eth the true Faith that removes mountains, and reconcileth the heart to God: and there is no other name under heaven whereby ſalvation cometh but by the Spi<g ref="char:EOLhyphen"/>rit of Jeſus in the heart, believed in, that brings down pride, that brings down envy and ſtrife, and every evil work, and breaks down the partition wall, and reconciles the heart to God, and bringeth life to the ſoul, who comes and his reward is with him.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>It appears that true Faith God is the Author of: But I would learn how this Faith cometh, and how it works in its power and efficacy, that I may know the difference of a Believer and an Unbeliever; and alſo whether I be in the Faith or no?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>Faith cometh by hearing, and hearing by the word of God; the Word and the Spi<g ref="char:EOLhyphen"/>rit is one, but the Spirit and the Letter is two; for the Letter killeth, but the Spirit maketh alive: the Spirit is a free gift, the manifeſtation of the Spirit is given to every
+<pb n="18" facs="tcp:150233:11"/>man to profit withal; the nature of the Spirit is light, and with this light are all men enlightned, that all men through him might believe the manner of the Spirit working in the heart. Firſt, a diſcovery of the ſin, and the want of life in the ſoul. Secondly, it begets a true deſire after the Lord, and a ſecret hunger and thirſt after righteouſneſs, and draws the heart to be affected into the love of the Spirit, as it is written; He that loves the light brings his deeds to the light, and through love the Spirit begets a belief in the heart to its ſelf; and as it is written, He that believes in the light ſhall not abide in darkneſs: all ſin is darkneſs. Mark the manifeſtation of the Spirit that ſearcheth the heart, and ma<g ref="char:EOLhyphen"/>keth the ſin known, the ſame ſorts the ſins and evil deeds; the light makes them ma<g ref="char:EOLhyphen"/>nifeſt of what ſort they are; and as the ſin is made known to be ſin, the manifeſtation of the Spirit that ſheweth the ſins and ſorts them: the ſame Spirit convinceth the Con<g ref="char:EOLhyphen"/>ſcience of every ſin and every evil deed, and the ſame manifeſtation of the Spirit abides in the heart, which is the onely means to work out mans ſalvation, and the manner of its working in the heart: as its nature is light, and love, even ſo it begets the heart into union with it ſelf. As
+<pb n="19" facs="tcp:150233:11"/>it is written, Of his own will begot he us, by the word of truth: and as the heart is drawn through love into union with the Spirit, it is drawn from the ſin, and from the evil; for the love of Chriſt conſtrain<g ref="char:EOLhyphen"/>eth: and the ſame manifeſtation of the Spirit which is Gods free gift to work out mans ſalvation, that begets the heart into unity with it ſelf, the ſame begets a belief in the heart to believe in Chriſt the Light, who is the light of the world, who hath en<g ref="char:EOLhyphen"/>lightned every man, that all men through him might believe, and the honeſt heart re<g ref="char:EOLhyphen"/>ceiveth the truth in the love of it; the Spirit begets a belief in the heart: and this is the Faith that comes by hearing, and hearing by the word of God; and this faith is that which works by love; and this is the faith that purifieth the heart: the ſtrength of this faith removes the ſin, re<g ref="char:EOLhyphen"/>moves mountains, and gives victory; as it is written, He that believes in the light ſhall not abide in darkneſs, but ſhall have the light of life: and this is the promiſe and the portion which the believer re<g ref="char:EOLhyphen"/>ceives; he ſhall have the light of life, and the life gives aſſurance, for every believer hath a ſeal in his ſoul, of life eternal, through the working of the Spirit by its power and efficacy, in mortifying and de<g ref="char:EOLhyphen"/>ſtroying
+<pb n="20" facs="tcp:150233:12"/>the works of the Devil, that ſinne and death may have no more dominion in the heart; and ſo death comes to be ſwal<g ref="char:EOLhyphen"/>lowed up by victory, and the promiſe of God accompliſhed in Chriſt, who ſaith, I am come that you might have life, who is the life, and brings life, who cometh, and his reward is with him.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>Thou ſpeakeſt that Chriſt hath enlightned every man, that all men through him might be<g ref="char:EOLhyphen"/>lieve; what is the reaſon that all ſhould be en<g ref="char:EOLhyphen"/>lightned, and yet ſome come ſhort of Faith in Chriſt?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>The defect it not in the light, but their rejecting it is the cauſe. The mercy and juſtice of God through Chriſt by enlight<g ref="char:EOLhyphen"/>ning all, that in the day of account all may be left without excuſe, mans miſery will be found to be of himſelf: here lieth the mat<g ref="char:EOLhyphen"/>ter, all are enlightned, but all men have not faith, many, will not believe that the light is truth, or that it is ſufficient to ſave the ſoul, and ſuch hates the light; every one that doth evil hateth the light, and calleth the good evil, and evil good, and putteth light for darkneſs, and darkneſs for light, and ſuch becomes reprobates con<g ref="char:EOLhyphen"/>cerning the Faith; ſo that it is plain, one
+<pb n="21" facs="tcp:150233:12"/>ſort loving the light, believing and obey<g ref="char:EOLhyphen"/>ing it, and another ſort hating, rejecting, reſiſting, and denying; ſo that ſuch as hates to be reformed, and rejects the motions of the Spirit, and reſiſteth the Holy Ghoſt, and denyeth the Lord that bought them, their deſtruction is of themſelves, and the Lord and his faithful people will be clear of their blood in the day of Judgement.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>But is the light of Chriſt ſufficient to ſave the Believer?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>Yea, the light is the author of the faith, and the faith ſtandeth in the light, and ſo it is ſaving faith; and the light is the grace: and it is written, My grace is ſufficient for thee. This grace was, and is the Saints teacher, which taught, and teacheth the be<g ref="char:EOLhyphen"/>liever to deny ungodlineſs and worldly luſts.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>If the light be the authour of the true ſaith in the believer; and ſo the authour of mans ſal<g ref="char:EOLhyphen"/>vation, what is the portion of the unbeliever, ſeeing thou ſayeſt that all are enlightned?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>The unbelievers that hate the light, the light is their condemnation: as it is writ<g ref="char:EOLhyphen"/>ten, This is the condemnation, that light is
+<pb n="22" facs="tcp:150233:13"/>come, and men love darkneſs, becauſe their deeds are evil; as alſo the grace that was the Saints teacher: the unbelievers denied the grace and turned to wantonneſs, and heaped up teachers to themſelves, having itching ears, as many do at this day: ſo the grace that taught and juſtified, and juſtifi<g ref="char:EOLhyphen"/>eth the believers living in it, the ſame grace condemneth the unbelievers, denying to be taught and guided by it, who have it in their hearts, but hateth to be reformed by it.</p>
+            </div>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <hi>I am much ſatisfied that the word of God in the heart is the Spirit of God, and that it is Gods free gift, and the onely means to work out mans ſalvation, and alſo that by this free gift which is the manifeſtation of the Spirit: every unbeliever in the day of Judgement ſhall be left without excuſe?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>Thus the queſtioner is anſwered in the truth concerning the word of God in the heart, and the power and efficacy of its working, by deviding betwixt the joynt and marrow, and by giving a diſcerning of the thoughts and intents of the heart; the diſcerning is the eye, by which eye the power of the word in the heart is diſcern<g ref="char:EOLhyphen"/>ed. A ſeparation being made in the heart,
+<pb n="23" facs="tcp:150233:13"/>by the word whereby good and evil is di<g ref="char:EOLhyphen"/>vided; and the word in the heart giveth a diſcerning of the evil in the heart; and ſo the light of the body is the eye: this is that eye that the god of this world had blinded, which the power of the word hath opened, and anointed with eye ſalve, that it can ſee and diſcern the thoughts and in<g ref="char:EOLhyphen"/>tents of the heart.</p>
+               <p>And alſo to diſcern words and actions, oathes and lyes, and the intent of the heart in all carriages towards God and man; now to diſcern the intent of all words, and to diſcern the intents of the thoughts, and the intent of a lye, and the like, as in this manner how the devil worketh, who abode not in the truth, who was a lyar and mur<g ref="char:EOLhyphen"/>therer from the beginning, who is the au<g ref="char:EOLhyphen"/>thour of all evil; that is to ſay, to draw the minde and heart of man from God to believe lyes.</p>
+               <p>Aud thus the Serpent did to <hi>Eve</hi> by al<g ref="char:EOLhyphen"/>luring her to eat of the forbidden fruit, ſaying, it is good: and <hi>Adam</hi> in like manner by eating therof loſt his bleſſed eſtate. Thus the authour of ſin, the authour of evil, de<g ref="char:EOLhyphen"/>ceived and deceiveth mankinde, by drawing the mind from the good to the evil, and in preſenting the evil delightſome to the eye of the minde, and alluring the heart there<g ref="char:EOLhyphen"/>after
+<pb n="24" facs="tcp:150233:14"/>to be affected therewith, as into one luſt after another, and alſo divers lying vanities, divers lyes to get ungodly gain; and ſo into pride of heart, and oathes, and the like, as covetouſneſs, oppreſſion, en<g ref="char:EOLhyphen"/>vy, and malice, and perſecution.</p>
+               <p>Thus the author of ſin hath allured the heart of man from God, and inticed it to ſin and ſinners, that ſuch and the like above mentioned luſts which war againſt the ſoul. Man in the fall is overcome with evil, and where the Devil ſits as king in the heart, who is called the prince of the aire that ru<g ref="char:EOLhyphen"/>leth in the children of diſobedience.</p>
+               <p>It is his work to blinde the eye, that ſuch ſhould not ſee the light of the gorious Goſpel ſhining in their hearts, and ſuch are carried captive by Satan at his will into ſuch ſtrong holds, and hurtful luſts, as is before mentioned.</p>
+               <p>And being blinde, they cannot ſee nor diſcern the thoughts and intents of their hearts, their eyes being ſhut up in unbelief, in departing from the living God, and lending an ear, an eye, and an heart unto the author of ſin, and ſo into the fleſhly luſts that war againſt the ſoul.</p>
+               <p>And ſuch whoſe eyes are blinded, whoſe ears are ſtopped, and hearts hardned by the deceitfulneſs of ſin; in that ſtate ſuch can<g ref="char:EOLhyphen"/>not
+<pb n="25" facs="tcp:150233:14"/>believe that the truth is the truth: but as the unbelieving Jews that roſe up againſt the Lord of life, even ſo now do ſuch un<g ref="char:EOLhyphen"/>reaſonable men who have not faith, perſe<g ref="char:EOLhyphen"/>cute thoſe who bear teſtimony to the truth as it is made manifeſt in them; ſo that as it was it is; they that are born after the fleſh perſecute them that are born after the ſpi<g ref="char:EOLhyphen"/>rit, in ſuch a manner, that many have thought they have done God ſervice, as <hi>Saul</hi> did.</p>
+               <p>Thus man in the fall being drove from God in the ſtate of degeneration, his eye is blinded and heart hardened through the deceitfulneſs of ſin, committing wicked<g ref="char:EOLhyphen"/>neſs with greedineſs, until the Lord opens his eyes by the manifeſtation of his Spirit, whereby the underſtanding comes to be en<g ref="char:EOLhyphen"/>lightned, and a diſcerning given into his heart to diſcern his own eſtate that he is fallen into by the temptations of Satan and his inſtruments.</p>
+               <p>And alſo that which gives a diſcerning of the heart, ſheweth how the heart is run with delight into ſeveral fleſhly luſts, ſtrong holds, and wicked practices, and lying va<g ref="char:EOLhyphen"/>nities, which the Devil is the authour of, and by ſo doing is overcome with evil; and as the Serpent told <hi>Eve,</hi> that the forbidden fruit was good, ſhe might eat; ſo hath the
+<pb n="26" facs="tcp:150233:15"/>Devil taught many to call evil good, and to eat thereof; and ſo by eating thereof the ſin is committed, and ſo death entered, as it was to <hi>Adam</hi> and <hi>Eve,</hi> and ſo it is with all the ſons and daughters of <hi>Adam</hi> in the fall, as it is written, As in <hi>Adam</hi> all dye, ſo in Chriſt ſhall all be made alive.</p>
+               <p>But to know how all in Chriſt are made alive is a myſtery, for the wages of ſin is death, but the gift of God is eternal life; which gift of God is the Son of God: and he that hath the Sonne hath Life, but he that hath not the Son hath no life; for the Son is the way, the truth, and life, to the believer, which way is deſcribed how it may be obtained, by the anſwers of ſeve<g ref="char:EOLhyphen"/>ral queſtions in this Book, which may be uſeful to the honeſt hearted for their reco<g ref="char:EOLhyphen"/>very out of the ſtate of <hi>Adam</hi> in the fall, unto Chriſt the ſecond Adam that never fell.</p>
+            </div>
+            <div type="declaration">
+               <p>HEre followeth a declaration of an opening in my heart, as by viſion in me as I lay in bed in the night ſeaſon in the twelfth Moneth, 1663. in which Viſion there appeared unto my view a ſumptuous building, in form like to a ſpacious Lords Pallace ſtanding on a hill: and I beholding of it, delighted in it; and as I looked upon
+<pb n="27" facs="tcp:150233:15"/>it, it appeared to me, that there were ſeve<g ref="char:EOLhyphen"/>ral pipes of lead laid round about the walls of that building, ordered in mine eye to ſerve the whole houſe with water: And I ſtood conſidering from whence this water ſhould come to ſerve ſuch a ſpacious place, being it ſtood upon a hill: And it further appeared to me, that the water that ſerved the whole houſe came from a Fountain; and the Lord of that building had ordered conveyance from the Fountain to ſerve the whole houſe. And it being ſuch an excel<g ref="char:EOLhyphen"/>lent work, I greatly deſired to ſee the Fountain, and how the water was convey<g ref="char:EOLhyphen"/>ed from the Fountain. And then I was ſhewed an excellent place called a Porters Lodge, where the Porter abode continu<g ref="char:EOLhyphen"/>ally; and it was ſhewed me that that Por<g ref="char:EOLhyphen"/>ter was highly eſteemed of the Lord of the building; and commiſſion were given to him to ſerve the whole houſe with water, and that both the Fountain and the con<g ref="char:EOLhyphen"/>veyance of the water were to be ordered at his pleaſure. Then I greatly deſired to ſee into the houſe, how the houſe was ſup<g ref="char:EOLhyphen"/>plied with water, and withal, way was made for me to enter into the houſe; and as I walked into ſeveral rooms, there were ſeveral ſervants, and every ſervant had his office; and I looked for the water, and in
+<pb n="26" facs="tcp:150233:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="27" facs="tcp:150233:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="28" facs="tcp:150233:17"/>ſome of the rooms the water came in abundantly, and thoſe ſervants of thoſe rooms kept all things under their charge in good order, very pleaſant to be<g ref="char:EOLhyphen"/>hold, to the great honour of the Lord of that houſe; and then I walked further in the houſe, into other rooms, and I looked for the water, and the water came into thoſe rooms very ſlowly, and the ſervants of thoſe rooms were not induſterous in their places, for their Lord, but were part for their Lord, and part for themſelves, and their rooms were not clean: and it was ſhewed me that there were many of thoſe unfaithful ſervants and unclean rooms. Then I deſired to ſee further into the houſe, and going further along into other rooms, I looked for water, ſeeing the rooms ex<g ref="char:EOLhyphen"/>ceeding foul, and the ſervants of thoſe rooms wholly at eaſe; and it was ſhewed me that there was pipes to convey water unto them as the other rooms had, but the water was ſtopped, which cauſed the un<g ref="char:EOLhyphen"/>cleanneſs: Then I were ſomething troubled in minde, and deſired to know the reaſon why ſome of the rooms ſhould have ſuch abundance of water, and ſome but a ſmall quantity, and ſome none; but it were ſhewed me that the Porter that were in high eſteem had power to ſerve the whole
+<pb n="29" facs="tcp:150233:17"/>houſe with water, and according to de<g ref="char:EOLhyphen"/>ſert he ſupplied the rooms thereof; and all thoſe ſervants that were faithful to their Lord had water in abundance; and thoſe ſervants that had had an eye to themſelves their water abated, and if they did not ſtand up and ſhew themſelves faithfull whilſt they had water, their rooms would grow unclean, as well as thoſe that had their water courſe ſtopped already: then I enquired in my minde what might become of thoſe ſervants that were at eaſe, or ſloathful; and it was ſhewed me that the Lord of the building would come, and the unfaithful ſervants he would caſt forth of his houſe, and place others in their rooms, for he could not endure unfaithful ſervants; and it ſeemed to me that it would be much ſhame, trouble, and terrour for them that were caſt out of ſuch a Lords ſervice for their unfaithfulneſs to their maſter. And ſo I awaked, and it were opened to my un<g ref="char:EOLhyphen"/>derſtanding, how my ſpirit hath been in this exerciſe as aforeſaid: and it being cleared to my underſtanding afreſh, I am conſtrained to write the ſubſtance of the matter, that the learned may read, and in reading every one may read themſelves, leſt they loſe their learning and can obtain it no more.</p>
+               <closer>
+                  <salute>
+                     <hi>Wisbitch</hi> Goale.</salute>
+                  <signed>Tho. Richardſon.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="30" facs="tcp:150233:18"/>
+               <head>The fruits of the Prieſts of Ely, in the County of <hi>Cambridge,</hi> publiſhed; wherein Prieſt <hi>Brunſel,</hi> and Prieſt <hi>Holder,</hi> called Juſti<g ref="char:EOLhyphen"/>ces, and Prieſt <hi>Langhorn</hi> their Brother by Trade, the fruits of their Miniſtrey, and their practice alſo deſcribed, as fol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oweth, That people may judge whether ſuch as theſe be able Miniſters of the Goſpel, or whether ſuch are fit to be judges of the Law, yea, or nay; if not, whether people ought not to be<g ref="char:EOLhyphen"/>ware of them, and ſuch like, as <hi>Jude</hi> hath exhorted us, much more becauſe the Spirit of the Lord hath made them manifeſt both in doctrine and practice.</head>
+               <opener>
+                  <salute>Daniel Langhorn <hi>Prieſt of</hi> Ely,</salute>
+               </opener>
+               <p>THis is to thee, who were at <hi>Ely</hi> Goale door, ſpeaking to a friend of God, and I being a Priſoner, told thee the Tree was known by its fruit; and that both thou and thy fruits was manifeſt: and thou went away, and bid me look in the Epiſtle of <hi>Jude,</hi> as if <hi>Jude</hi> deſcribed ſuch as we are to be out of the truth: therefore to ſatisfie thee and others, I have read <hi>Judes</hi> Epiſtle, and do herein write a teſtimony of <hi>Judes</hi> teſtimony, that thou and all other who ſhall ſee this Letter may be perſwaded, or however, left without excuſe, what ſort of
+<pb n="31" facs="tcp:150233:18"/>people <hi>Jud<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> wrote againſt, or exhorted the Saints to beware of, as may be ſeen being upon record. <hi>Jude a ſervant of Jeſus, to them that are ſanctified, (ſaying) when I gave diligence to write unto you of the common ſalva<g ref="char:EOLhyphen"/>tion, it was needful for me to write unto you, and to exhort you, that you earneſtly contend for the Fai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h that was once delivered to the Saints; for there were certain men crept in unawares, who were ordained of old for condemnation, ungodly men, turning the grace of God into laſciviouſ<g ref="char:EOLhyphen"/>neſs, and denying the Lord Jeſus:</hi> How canſt thou clear thy ſelf here <hi>(Daniel)</hi> art thou not one of thoſe that are crept in, or art thou entered in by the door; (if not) what are they that climbe up another way, or ſuch as are crept in at unawares into a Steeple-houſe for ſo much a year: though ſome of the world are not aware of you, yet the children of Light can ſee you: And <hi>Jud<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> exhortation we dearly own, as to beware of ſuch as <hi>Jude</hi> deſcribes, who were ordained of old for condemnation. Like<g ref="char:EOLhyphen"/>wiſe <hi>Judes</hi> exhortation is to the Saints to beware of the filthy dreamers that defile the fleſh, deſpiſe dominion, and ſpeak evil of dignities. Now <hi>(Daniel)</hi> wouldſt thou turn theſe words upon us, or they ſtand a witneſs againſt thee and thy brethren; for I teſtifie as before the Lord, that we whom thou in ſcorn calleſt Quakers, do not deny
+<pb n="32" facs="tcp:150233:19"/>dominion, but are real in heart for the eſta<g ref="char:EOLhyphen"/>bliſhing thereof: therefore own thy own Scriptures, which is for thee and thy Bre<g ref="char:EOLhyphen"/>thren, who are the filthy dreamers for fil<g ref="char:EOLhyphen"/>thy lucre: and upon thy head I leave it; he that hath a dream let him tell a dream, ſaith the Lord; and he that hath my word let him ſpeak it faithfully. If thou canſt not believe that thou and thy beethren are of that number before mentioned, whom <hi>Jude</hi> hath ſentenced filthy dreamers like the Sodomites, who were ordained of old for condemnation. For a further deſcription mark the 11th. ver. for the proof and con<g ref="char:EOLhyphen"/>firmation, and alſo thy portion: thou art uſed to divide the Scriptures for money, divide this verſe amongſt thee and thy bre<g ref="char:EOLhyphen"/>thren: <hi>Woe unto them</hi> (ſaith Jude) <hi>for they have gone in the way of Cain, and runned gree<g ref="char:EOLhyphen"/>dily after the errour of Balaam for reward, and periſhed in the gain-ſaying of Core:</hi> Did not <hi>Cain</hi> perſecute about Religion, and did not <hi>Balaam</hi> love the wages of unrighteouſ<g ref="char:EOLhyphen"/>neſs? doth not thou and thy brethren run greedily after the errour of <hi>Balaam</hi> for re<g ref="char:EOLhyphen"/>ward: therefore in <hi>Cains</hi> way and <hi>Balaams</hi> way own your own Scriptures, and <hi>Judes</hi> ſentence, which is periſhing in the gain<g ref="char:EOLhyphen"/>ſaying of <hi>Core.</hi> Did not <hi>Cain</hi> in envy per<g ref="char:EOLhyphen"/>ſecute about Religion? doth not the Do<g ref="char:EOLhyphen"/>ctor Prieſts in <hi>Ely</hi> and thou alſo perſecute
+<pb n="33" facs="tcp:150233:19"/>about Religion in Goales and Pulpits; your tongues and actions make you mani<g ref="char:EOLhyphen"/>feſt to go in the way of <hi>Cain:</hi> and further, for the clearing of your practiſe, <hi>Iude</hi> in the 12. verſe deſcribes ſuch out, how they may be known, ſpeaking of the ſpots in your Feaſts of Charity, feeding without fear, clouds without water, carried about with windes, trees without fruit, twice dead, plucked up by the roots: how canſt thou clear thy ſelf here. <hi>Daniel,</hi> doeſt thou not uſe to feaſt? I heard thou wert at a Feaſt in <hi>Ely,</hi> and called for the other Song; is not this one of thy ſpots that thou art known by? what could a drunkard have done more: is this the practice of a Miniſter of Chriſt, or of ſuch an one as <hi>Iude</hi> hath ſen<g ref="char:EOLhyphen"/>tenced, which is crept in at unawares, who were of old for condemnation. Again, carried about with windes, is not thy Do<g ref="char:EOLhyphen"/>ctrine windy? how hath it wrought effect ſo in any of thy hearers as to change their hearts from evil; or what fruits are brought forth to God in thee and thy brethren or in your aſſemblies: Thou may read what the fruit of the Spirit is, it is love, joy, peace, and the like: how little of theſe fruits doth appear, either in you that are called teachers, or in thoſe whom you etach: but inſtead of love and peace, we
+<pb n="34" facs="tcp:150233:20"/>finde pride, envy, ſtrife, and perſecution abounds: and theſe fruits ſhews that you are carried about with windes, without fruit, as to God. And further in the 13th. verſe, <hi>Iude</hi> deſcribes ſuch more at large, as raging wayes of the Sea, foaming out your own ſhame, wandering ſtars: and your portion he hath deſcribed, ſaying, <hi>To whom is reſerved the blackneſs of darkneſs for ever.</hi>
+               </p>
+               <p>And further, <hi>Iude</hi> brings <hi>Enochs</hi> prophe<g ref="char:EOLhyphen"/>ſie of the Lords coming with ten thouſand of his Saints to execute judgement upon all the ungodly, for their ungodly deeds and hard ſpeeches. And <hi>Iude</hi> further de<g ref="char:EOLhyphen"/>ſcribes them, that the Lord would execute judgement upon, ſtiling them that they might be known, in the 16. ver. <hi>Theſe are they which are murmurers, complainers, walk<g ref="char:EOLhyphen"/>ing after their own luſts ſpeaking great ſwelling words, having mens perſons in admiration be<g ref="char:EOLhyphen"/>cauſe of advantage:</hi> Do not you Prieſts be<g ref="char:EOLhyphen"/>lieve that you are of this number whom <hi>Iude</hi> hath deſcribed in matter of practiſe; yet further <hi>Iude</hi> openeth ſuch more in the 18. and 19. verſes, ſaying, how the Apoſtle ſpoke of ſuch before, how there ſhould be mockers in the laſt time who ſhould walk after their own ungodly luſts, ſaying, <hi>Theſe be they who ſeparate themſelves ſenſual, having not the Spirit.</hi> (Mark) <hi>Iude</hi> ſaith theſe who
+<pb n="35" facs="tcp:150233:20"/>walk after their own ungodly luſts; ſuch as are ſenſual, ſeparated from the Spirit. Con<g ref="char:EOLhyphen"/>ſider therefore if <hi>Iude</hi> have not given a clear deſcription who they are that the Saints are to be aware of; and how ſuch as thou may be diſcerned from them that fear the Lord, both by doctrine and converſa<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Now conſider if thou can contrary this, and bring a proof of any of the Miniſters of Chriſt that perſecuted any about Reli<g ref="char:EOLhyphen"/>gion, for an example for thee and thy bre<g ref="char:EOLhyphen"/>thren, who profeſs your ſelves Miniſters, but prove your ſelves perſecutors. Then ſhew me who they are that <hi>Jude</hi> wrote to the Saints to be aware of, that goes in <hi>Cains</hi> way, and <hi>Balaams</hi> way; or who they are that turned the grace of God into laſcivi<g ref="char:EOLhyphen"/>ouſneſs; who are crept in at unawares, and who are the filthy dreamers; as bruit beaſts ſeparated from the ſpirit, and know nothing but what they know naturally, that walks in <hi>Cains</hi> way and <hi>Balaams</hi> way, and loves to feaſt, and the upper rooms alſo; raging waves, foaming out their own ſhame, fruit<g ref="char:EOLhyphen"/>leſs trees who liveth in their own ungodly luſts, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aving mens perſons in admiration becauſe of advantage.</hi>
+               </p>
+               <p>Now <hi>Daniel,</hi> if thou and the Doctor Prieſts of <hi>Ely</hi> called Juſtices, can clear your
+<pb n="36" facs="tcp:150233:21"/>ſelves to be none of this number aboveſaid, whom <hi>Jude</hi> hath deſcribed how ſuch might be known, both by doctrine and practiſe, and alſo ſet forth their portion; then let us whom you caſt into <hi>Ely</hi> Goale hear from you who they are that walk in <hi>Cains</hi> and <hi>Ba<g ref="char:EOLhyphen"/>laams</hi> way; for it will lie upon you to clear your ſelves by doctrine and example, ac<g ref="char:EOLhyphen"/>cording to Scripture Rule, or elſe own your own Scriptures and <hi>Iudes</hi> ſentence, your portion.</p>
+               <p>For <hi>Daniel,</hi> according to thy words I have read <hi>Iudes</hi> Epiſtle, and do bear my te<g ref="char:EOLhyphen"/>ſtimony againſt all ſuch as walk in <hi>Cains</hi> way, perſecuting the juſt; and alſo againſt all ſuch as run greedily after the errour of <hi>Balaam</hi> for reward, and againſt ſuch filthy dreamers which are crept in at unawares, who were ordained of old for condemna<g ref="char:EOLhyphen"/>tion; and againſt ſuch as are ſenſual, ha<g ref="char:EOLhyphen"/>ving not the Spirit, who live in their own ungodly luſts.</p>
+               <p>And for a farther teſtimony that you are of that number that <hi>Iude</hi> hath ſentenced, who walk in <hi>Cains</hi> way perſecutig the juſt, remember <hi>Ely</hi> Goale, and all that take no<g ref="char:EOLhyphen"/>tice of your actions ſtand witneſs againſt you: have you not caſt fourteen men into priſon, and kept us twenty weeks from Seſ<g ref="char:EOLhyphen"/>ſions to Seſſions, when no evil can he pro<g ref="char:EOLhyphen"/>ved
+<pb n="37" facs="tcp:150233:21"/>againſt us, done either to God or man; and you Prieſts have ſet on the Bench both to be our Accuſers and Judges: how much falſe impriſonment have we received by you muſt not a record of this be kept think you with the Lord, who aſſuredly takes notice of all your proceeding againſt the Innocent.</p>
+               <p>And thou <hi>Daniel</hi> cryed, keep them up Goaler, who came by the Goale door and ſmote a priſoner on the face: where is there any ſuch perſecuters in <hi>England</hi> as you Prieſts ſhew your ſelves to be: Well might <hi>Jude</hi> ſay, Woe unto ſuch as go in the way of <hi>Cain,</hi> and run greedily after the error of <hi>Balaam</hi> for reward, ſuch murmurers and complainers: do you not murmur and grudge that we whom you perſecute ſhould live amongſt you; and do you not com<g ref="char:EOLhyphen"/>plain to the Magiſtrates againſt us; have you not informed the Judge of the Aſſize to keep ſuch and ſuch in priſon whom your envy is againſt; let the witneſs in you ſpeak: for whatſoever is committed in darkneſs is made manifeſt in the light: do you not believe that the Lord will avenge for theſe things.</p>
+               <p>Now <hi>Daniel,</hi> its like thou wilt call this a railing accuſation; but <hi>Jude</hi> did not rail when he ſaid ſuch and ſuch were to periſh,
+<pb n="38" facs="tcp:150233:22"/>and that ſuch as were crept in at unaware were ordained of old for condemnation and that ſuch as walked in <hi>Cains</hi> way; a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Balaams</hi> way, dreamers, murmurers, com<g ref="char:EOLhyphen"/>plainers, and the like, that walked afte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their own ungodly luſts, that to ſuch was re<g ref="char:EOLhyphen"/>ſerved the blackneſs of darkneſs for ever this was, and is no railing accuſation, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the words of truth which is and muſt b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fulfilled.</p>
+               <p>Be warned therefore, O ye Prieſts, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> take heed of fighting againſt the Lord, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> perſecuting his people; for what is done unto his is done unto him, for the Lord is on our ſide: In vain it is for man to ſtrive againſt him, who will by no means acqu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the wicked: and if you have any regard unto your own ſouls; take heed what you do, the day of account haſtens; and I ne<g ref="char:EOLhyphen"/>ver knew any fight againſt God and proſ<g ref="char:EOLhyphen"/>per.</p>
+               <closer>
+                  <signed>Tho. Richardſon</signed>
+               </closer>
+               <trailer>The End.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
